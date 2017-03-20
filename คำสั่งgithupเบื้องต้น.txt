@@ -1,0 +1,12 @@
+1.git init 
+2.git status
+3.git add .
+4.git commit -m "YOUR MESSAGE"
+5.git remote add origin https://github.com/PanupongDave/laravel.git
+6.git push -u origin master
+
+7.git remote show origin ดูว่าต่อกำลังrespoไหน
+
+8.git remote set-url origin https://github.com/PanupongDave/laravel2.git เปลี่ยนตำแหน่งrespo
+
+9.เปลี่ยนBanch git check out -b(สร้างBranch) ชื่อBranch ใหม่ (รอบต่อไปไม่ต้องใส่ -b)

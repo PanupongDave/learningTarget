@@ -10,3 +10,8 @@
 8.git remote set-url origin https://github.com/PanupongDave/laravel2.git เปลี่ยนตำแหน่งrespo
 
 9.เปลี่ยนBanch git check out -b(สร้างBranch) ชื่อBranch ใหม่ (รอบต่อไปไม่ต้องใส่ -b)
+
+10.git config --list เช็ค
+11.$ git config --global user.name "John Doe"
+   $ git config --global user.email johndoe@example.com เปลี่ยนแปลงข้อมูล
+ 

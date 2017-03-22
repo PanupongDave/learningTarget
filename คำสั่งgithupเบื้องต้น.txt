@@ -14,4 +14,8 @@
 10.git config --list เช็ค
 11.$ git config --global user.name "John Doe"
    $ git config --global user.email johndoe@example.com เปลี่ยนแปลงข้อมูล
+
+12. ดู commit id git log
+
+13.git reset --hard ใส่ commit id รีเซท commit
  

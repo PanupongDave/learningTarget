@@ -18,4 +18,8 @@
 12. ดู commit id git log
 
 13.git reset --hard ใส่ commit id รีเซท commit
+
+14.git pull PanupongDave master ---->update เมื่อมีการเปปลี่ยนแปลง 
+
+15.git clone https://github.com/PanupongDave/laravelLearning.git
  
